@@ -13,7 +13,7 @@ public class Lab3 {
         String path = "exfil.txt";
         String path2 = "resultat.txt";
 
-        deleteFileIfNotExists(path2);
+        deleteFileIfExists(path2);
 
 
         try (BufferedReader br = new BufferedReader(new FileReader(path));
@@ -30,7 +30,7 @@ public class Lab3 {
         }
     }
 
-    private void deleteFileIfNotExists(String path2) {
+    private void deleteFileIfExists(String path2) {
         try{
             Files.deleteIfExists(Paths.get(path2));                
         }
