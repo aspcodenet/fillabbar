@@ -1,0 +1,834 @@
+﻿struts
+somaliastruts
+större nandu
+mindre nandu
+sydkivi
+brunkivi
+okaritokivi
+mindre fläckkivi
+större fläckkivi
+grå tinamo
+solitärtinamo
+svart tinamo
+större tinamo
+vitstrupig tinamo
+höglandstinamo
+brunbröstad tinamo
+kamtinamo
+sottinamo
+askgrå tinamo
+mindre tinamo
+tepuítinamo
+brun tinamo
+amazontinamo
+ljusbrynad tinamo
+brasiliansk tinamo
+gråbent tinamo
+rödbent tinamo
+gulbent tinamo
+svarthättad tinamo
+snårtinamo
+skiffertinamo
+chocótinamo
+broktinamo
+rosttinamo
+Bartletts tinamo
+kortnäbbad tinamo
+strimmig tinamo
+tataupatinamo
+rostvingad tinamo
+huaycotinamo
+taczanowskitinamo
+tofstinamo
+chiletinamo
+busktinamo
+andinsk tinamo
+bågnäbbad tinamo
+vitbukig tinamo
+småtinamo
+darwintinamo
+fläckig tinamo
+dvärgtinamo
+prakttinamo
+quebrachotinamo
+punatinamo
+patagonientinamo
+sumpnattskärra
+nechisarnattskärra
+sahelnattskärra
+stjärnfläckig nattskärra
+savannattskärra
+pricknattskärra
+bonapartenattskärra
+salvadorinattskärra
+itombwenattskärra
+batesnattskärra
+långstjärtad nattskärra
+kilstjärtad nattskärra
+bantunattskärra
+vimpelnattskärra
+flaggnattskärra
+fläckpannad seglare
+gråhakad seglare
+ljuspannad seglare
+sotseglare
+brunseglare
+svartseglare
+vitbröstad seglare
+vattenfallsseglare
+tepuíseglare
+kastanjeseglare
+halsbandsseglare
+halvmåneseglare
+vitnackad seglare
+jättesalangan
+fjäderfotssalangan
+grågumpssalangan
+bergsryggssalangan
+tenggarasalangan
+timorsalangan
+glanssalangan
+satängsalangan
+borneosalangan
+javasalangan
+julösalangan
+dvärgsalangan
+seychellsalangan
+maskarensalangan
+malabarsalangan
+filippinsalangan
+halmaherasalangan
+sulawesisalangan
+seramsalangan
+bergsalangan
+vitgumpad salangan
+australisk salangan
+himalayasalangan
+vulkansalangan
+storhuvad salangan
+barbent salangan
+mayrsalangan
+mossbosalangan
+enfärgad salangan
+gråsalangan
+palausalangan
+guamsalangan
+karolinersalangan
+tahitisalangan
+atiusalangan
+marquesassalangan
+svartbosalangan
+svalbosalangan
+kustsalangan
+papuasalangan
+flockseglare
+filippintaggstjärtseglare
+papuataggstjärtseglare
+madagaskartaggstjärtseglare
+sãotométaggstjärtseglare
+vitgumpad taggstjärtseglare
+vattrad taggstjärtseglare
+svart taggstjärtseglare
+silvergumpad taggstjärtseglare
+Sabines taggstjärtseglare
+Cassins taggstjärtseglare
+Böhms taggstjärtseglare
+taggstjärtseglare
+silverryggig taggstjärtseglare
+brunryggig taggstjärtseglare
+purpurtaggstjärtseglare
+antillerseglare
+bandgumpseglare
+costaricaseglare
+blekgumpseglare
+grågumpseglare
+vauxseglare
+sickseglare
+skorstensseglare
+chapmanseglare
+amazonseglare
+kortstjärtad seglare
+brokseglare
+vitmönstrad seglare
+andinsk seglare
+karibpalmseglare
+dvärgpalmseglare
+gaffelstjärtad palmseglare
+större svalstjärtsseglare
+mindre svalstjärtsseglare
+afrikansk palmseglare (5)
+madagaskarpalmseglare (5)
+asiatisk palmseglare
+alpseglare (6)
+vattrad seglare
+kapverdeseglare
+tornseglare
+enfärgad seglare
+nyanzaseglare
+blek tornseglare
+kapseglare
+madagaskarseglare
+biokoseglare
+somaliaseglare
+damaraseglare
+orientseglare (7)
+tibetseglare (7)
+himalayaseglare (7)
+cookseglare (7)
+mörkryggig seglare
+stubbstjärtseglare
+husseglare
+horusseglare
+vitgumpseglare
+batesseglare
+purpurtofsad vipkolibri
+smaragdstrupe
+guyanakokett
+savannkokett
+praktkokett
+korttofskokett
+långtofskokett
+paljettkokett
+festkokett
+påfågelkokett
+svarttofskokett
+vittofskokett
+tofsnålstjärt
+svartbukig nålstjärt
+kopparnålstjärt
+grön nålstjärt
+spatelnålstjärt
+rödnäbbad vimpelkolibri
+svartnäbbad vimpelkolibri
+blåkindad safir
+långstjärtad smaragd
+cozumelsmaragd
+svalstjärtad smaragd
+panamasmaragd
+blåstjärtad smaragd
+västandinsk smaragd
+magdalenasmaragd
+chiribiquetesmaragd
+glanssmaragd
+kanelsmaragd
+yucatánsmaragd
+roststjärtad smaragd
+kastanjebukig smaragd
+amaziliasmaragd
+ljusbukig smaragd
+brokig smaragd
+kortnäbbad smaragd
+andinsk smaragd
+vitbröstad safir
+azurkronad smaragd
+violettkronad smaragd
+grönpannad smaragd
+brunsidig smaragd
+glitterstrupig smaragd
+violettstrupig smaragd
+blåbröstad smaragd
+costaricasmaragd
+purpurbröstad smaragd
+mangrovesmaragd
+hondurassmaragd
+stålblåbukig smaragd
+indigokronad smaragd
+snöbukig smaragd
+beryllsmaragd
+blåstjärtssmaragd
+hoffmannsmaragd
+grönbukig smaragd
+koppargumpad smaragd
+snöhätta
+santamartablomhätta
+magdalenablomhätta
+silkeskolibri
+bronsstjärtskolibri
+blåstrupig bergsjuvel
+ametiststrupig bergsjuvel
+grönstrupig bergsjuvel
+grönbröstad bergsjuvel
+vitbukig bergsjuvel
+purpurstrupig bergsjuvel
+vitstrupig bergsjuvel
+gråstjärtad bergsjuvel
+xantuskolibri
+vitörad kolibri
+granatstrupekolibri
+fläckkolibri
+ecuadorbrokstjärt
+perubrokstjärt
+rubinstrupe
+tepuíbriljant
+napobriljant
+yungasbriljant
+svartstrupig briljant
+kanelbröstad briljant
+rosastrupig briljant
+grönkronad briljant
+chocóbriljant
+violettpannad briljant
+rivolikolibri
+paradiskolibri
+saxstjärtskolibri
+violbröstad kolibri
+vitstjärtad kolibri
+Bouguers kolibri
+ockrastjärtad kolibri
+kastanjebröstad kolibri
+hyacintkolibri
+regnbågsglansrygg
+purpurglansrygg
+magentaglansrygg
+malakitglansrygg
+ecuadorbergstjärna
+punabergstjärna
+grönhuvad bergstjärna
+blåstrupig bergstjärna
+blåbukig bergstjärna
+svartbröstad bergstjärna
+kastanjebröstad bergstjärna
+sammetsbröstad kolibri
+bronsinka
+brun inka
+svart inka
+vitkragad inka
+vitstjärtad inka
+gyllenbukig inka
+mörk inka
+blåstrupig inka
+opalvingad inka
+violettstrupig inka
+regnbågsinka
+svärdnäbb
+safirvinge
+jättekolibri
+eldkronekolibri
+juanfernándezkolibri
+gyllensolängel
+ametiststrupig solängel
+longuemaresolängel
+méridasolängel
+kragsolängel
+turmalinsolängel
+eldstrupig solängel
+purpurstrupig solängel
+kungssolängel
+svartbröstad dunbena
+kragdunbena
+glitterdunbena
+svartdunbena
+turkosstrupig dunbena
+kopparbukig dunbena
+safirgumpad dunbena
+gyllenbröstad dunbena
+blåpannad dunbena
+praktdunbena
+smaragddunbena
+bronsdunbena
+quechuadunbena
+sorgdunbena
+purpurbröstad kolibri
+rostgumpskolibri
+vittofsad flaggkolibri
+peruflaggkolibri
+boliviaflaggkolibri
+svartstjärtad släpkolibri
+grönstjärtad släpkolibri
+sapfokomet
+bronsstjärtskomet
+svartryggig nålnäbb
+purpurryggig nålnäbb
+bergkolibri
+grönskäggig hjälmkolibri
+blåskäggig hjälmkolibri
+vitskäggig hjälmkolibri
+purpurskäggig hjälmkolibri
+smaragdstrupig glansstjärt
+perijáglansstjärt
+grön glansstjärt
+violettstrupig glansstjärt
+neblinaglansstjärt
+kopparglansstjärt
+eldstrupig glansstjärt
+fjällig glansstjärt
+svart glansstjärt
+rostkronad nålnäbb
+olivnålnäbb
+blåryggig nålnäbb
+bronsstjärtad nålnäbb
+regnbågsnålnäbb
+skärfläckekolibri
+gråbukig komet
+grönstjärtad sylf
+venezuelasylf
+violettstjärtad sylf
+hyacintvisirbärare
+hättvisirbärare
+östlig kilnäbbskolibri
+västlig kilnäbbskolibri
+purpurkronad blomnymf
+amazonblomnymf
+hornkolibri
+spatelstjärt
+brunhättad stjärnkolibri
+långnäbbad stjärnkolibri
+grön stjärnkolibri
+blå stjärnkolibri
+oasskogsjuvel
+långstjärtad skogsjuvel
+glitterstjärtad skogsjuvel
+guatemalasaxstjärt
+yucatánsaxstjärt
+ametistskogsjuvel
+bahamakolibri
+inaguakolibri
+magentaskogsjuvel
+purpurstrupig skogsjuvel
+smalstjärtad skogsjuvel
+luciferkolibri
+praktkolibri
+fekolibri
+bikolibri
+rubinkolibri
+svarthakad kolibri
+Annas kolibri
+Costas kolibri
+humlekolibri
+vinstrupekolibri
+blåstrupig skogsjuvel
+chileskogsjuvel
+kortstjärtad skogsjuvel
+vitbukig skogsjuvel
+brunbröstad skogsjuvel
+kragskogsjuvel
+santamartaskogsjuvel
+esmeraldasskogsjuvel
+jourdanskogsjuvel
+bredstjärtad kolibri
+rostkolibri
+Allens kolibri
+vulkankolibri
+glödhakekolibri
+glitterkolibri
+kalliopekolibri
+australisk buskgök
+bandad buskgök
+sorgbuskgök
+indisk buskgök
+vanlig buskgök
+indonesisk buskgök
+moluckbuskgök
+mörk långstjärtsgök
+olivgrå långstjärtsgök
+bandad långstjärtsgök
+filippindrongogök
+tvärstjärtad drongogök
+klyvstjärtad drongogök
+moluckdrongogök
+mustaschhökgök
+större hökgök
+mindre hökgök
+indisk hökgök
+nordlig hökgök
+filippinhökgök
+malajhökgök
+hodgsonhökgök
+svartgök
+rödbröstad gök
+smågök
+sulawesigök
+kortvingegök
+madagaskargök
+afrikansk gök
+himalayagök
+tajgagök
+sundagök
+gök
+sankthelenagökklippduva
+stenduva
+snöduva
+guineaduva
+abessinsk duva
+skogsduva
+turkestanduva
+somaliaduva
+ringduva
+madeiraduva
+kanarieduva
+lagerduva
+afrikansk ringduva
+olivduva
+sjöstedtduva
+sãotoméduva
+komorskogsduva
+bergskogsduva
+vitnackad duva
+sjalduva
+nilgiriduva
+ceylonduva
+purpurduva
+silverduva
+andamanduva
+svartduva
+boninduva †
+ryukyuduva †
+vitstrupig duva
+vithuvad duva
+gulfotad duva
+östlig bronsduva
+västlig bronsduva
+malherbeduva
+citronduva
+vitkronad duva
+rödnackad duva
+fjällig duva
+picazuroduva
+nakenögd duva
+fläckvingad duva
+bandstjärtsduva
+chileduva
+jamaicaduva
+rostduva
+rödnäbbad duva
+marañónduva
+karibduva
+blyduva
+kopparduva
+kortnäbbad duva
+goodsonduva
+madagaskarduva
+rodriguesduva †
+rosenduva
+turturduva
+mörk turturduva
+adamawaduva
+större turturduva
+öturkduva
+turkduva
+skrattduva
+vitvingad turkduva
+sorgduva
+rödögd duva
+kapturkduva
+vinduva
+röd turkduva
+pärlhalsduva (9)
+palmduva (9)
+bandstjärtad gökduva
+smalnäbbad gökduva
+sultangökduva
+rostgökduva
+engganogökduva
+barusangökduva
+större gökduva
+tanimbargökduva
+selayargökduva
+filippingökduva
+röd gökduva
+andamangökduva
+svartnäbbad gökduva
+mackinlaygökduva
+mindre gökduva
+långstjärtad gökduva
+bismarckgökduva
+salomongökduva
+vitmaskad gökduva
+sulagökduva
+timorgökduva
+smaragdfläckduva
+svartnäbbad fläckduva
+blåfläcksduva
+tambourinfläckduva
+blåhuvad fläckduva
+långstjärtsduva
+asiatisk smaragdduva
+australisk smaragdduva
+brunryggig smaragdduva
+svart bronsvingeduva
+bismarckbronsvingeduva
+vanlig spegelduva
+grönvingad spegelduva
+flockspegelduva
+tofsduva
+spinifexduva
+eukalyptusduva
+rapphöneduva
+gladiatorduva
+wongaduva
+arnhemduva
+kimberleyduva
+diamantduva
+zebraduva
+billabongduva
+timorzebraduva
+blåbröstad zebraduva
+inkaduva
+fjällig sparvduva
+nordlig sparvduva
+dvärgsparvduva
+buckleysparvduva
+rostsparvduva
+picuisparvduva
+guldnäbbad sparvduva
+blåögd sparvduva
+blå sparvduva
+lilabandad sparvduva
+purpurbröstad sparvduva
+glasögonsparvduva
+morenosparvduva
+svartvingad sparvduva
+bronsvingad sparvduva
+långstjärtad sparvduva
+blåhuvad vaktelduva
+indigokronad vaktelduva
+safirvaktelduva
+tofsvaktelduva
+röd vaktelduva
+violett vaktelduva
+kubavaktelduva
+hispaniolavaktelduva
+karibvaktelduva
+tygelvaktelduva
+veraguasvaktelduva
+ljuspannad duva
+yungasduva
+gråpannad duva
+gråhuvad duva
+chocóduva
+panamaduva
+grenadaduva
+yucatánduva
+cassinduva
+ockrabukig duva
+tolimaduva
+tuxtlavaktelduva
+costaricavaktelduva
+purpurryggig vaktelduva
+vitkindad vaktelduva
+vitstrupig vaktelduva
+streckkindad vaktelduva
+chiriquívaktelduva
+rostkronad vaktelduva
+vandringsduva †
+spetsstjärtad duva
+socorroduva
+öronduva
+zenaidaduva
+galápagosduva
+vitvingad duva
+peruduva
+nikobarduva
+liverpoolduva †
+sulawesimarkduva
+gulbröstad markduva
+luzonmarkduva
+mindanaomarkduva
+mindoromarkduva
+negrosmarkduva
+sulumarkduva
+wetarmarkduva
+vitbröstad markduva
+karolinermarkduva
+tuamotumarkduva
+marianermarkduva
+norfolkmarkduva †
+samoamarkduva
+santacruzmarkduva
+tannamarkduva †
+salomonmarkduva †
+marquesasmarkduva
+gråbröstad markduva
+palaumarkduva
+choiseulduva †
+fasanduva
+blå kronduva
+scheepmakerkronduva
+sclaterkronduva
+victoriakronduva
+dront †
+rodriguessolitär †
+tandduva
+mindre brunduva
+större brunduva
+tawitawibrunduva
+mindanaobrunduva
+vinröd grönduva
+mindre grönduva
+gråhättad grönduva
+orangebröstad grönduva
+ceylongrönduva
+malabargrönduva
+gråhuvad grönduva
+andamangrönduva
+filippingrönduva
+burugrönduva
+tjocknäbbad grönduva
+gråkindad grönduva
+sumbagrönduva
+floresgrönduva
+timorgrönduva
+större grönduva
+gulfotad grönduva
+gulbukig grönduva
+madagaskargrönduva
+komorgrönduva
+afrikansk grönduva
+pembagrönduva
+sãotomégrönduva
+spetsstjärtad grönduva
+sumatragrönduva
+gulgumpad grönduva
+kilstjärtad grönduva
+vitbukig grönduva
+taiwangrönduva
+svartryggig fruktduva
+svartbandad fruktduva
+rödnackad fruktduva
+sundafruktduva
+luzonfruktduva
+gräddbukig fruktduva
+ockrabröstad fruktduva
+fischerfruktduva
+jambufruktduva
+banggaifruktduva
+kastanjestrupig fruktduva
+sulafruktduva
+svartstrupig fruktduva
+rödbröstad fruktduva
+wompoofruktduva
+rosafläckig fruktduva
+praktfruktduva
+vanuatufruktduva
+orangepannad fruktduva
+wallacefruktduva
+purpurkronad fruktduva
+pastellfruktduva
+tongafruktduva
+pohnpeifruktduva
+kosraefruktduva
+palaufruktduva
+rarotongafruktduva
+marianerfruktduva
+rosenkronad fruktduva
+silverhättad fruktduva
+tahitifruktduva
+makateafruktduva
+atollfruktduva
+rödbukig fruktduva
+rapafruktduva
+vitkronad fruktduva
+marquesasfruktduva †
+hendersonfruktduva
+diademfruktduva
+karmosinkronad fruktduva
+blåkronad fruktduva
+vitbandad fruktduva
+gulbandad fruktduva
+rödstrupig fruktduva
+vithuvad fruktduva
+orangebukig fruktduva
+knölnäbbad fruktduva
+gråhuvad fruktduva
+vårtfruktduva
+svartnackad fruktduva
+dvärgfruktduva
+negrosfruktduva
+orange fruktduva
+gyllenfruktduva
+kadavufruktduva
+tofsbent fruktduva
+mauritiusblåduva †
+madagaskarblåduva
+komorblåduva
+seychellblåduva
+filippinkejsarduva
+vitbukig kejsarduva
+mindorokejsarduva
+gråhuvad kejsarduva
+fläckvingad kejsarduva
+grön kejsarduva
+nikobarkejsarduva
+glasögonkejsarduva
+seramkejsarduva
+blåstjärtad kejsarduva
+stillahavskejsarduva
+mikronesisk kejsarduva
+polynesisk kejsarduva
+marquesaskejsarduva
+rödvårtig kejsarduva
+svartvårtig kejsarduva
+rostbröstad kejsarduva
+moluckkejsarduva
+finschkejsarduva
+rödbröstad kejsarduva
+ökejsarduva
+rosahuvad kejsarduva
+julökejsarduva
+grå kejsarduva
+fijikejsarduva
+kastanjebukig kejsarduva
+vanuatukejsarduva
+jättekejsarduva
+pinonkejsarduva
+svart kejsarduva
+halsbandskejsarduva
+zoekejsarduva
+bergkejsarduva
+javakejsarduva
+timorkejsarduva
+svartvit kejsarduva
+vit kejsarduva
+australisk kejsarduva
+gräddfärgad kejsarduva
+perukduva
+nyazeelandduva
+chathamduva
+sulawesiduva
+papuabergduva
+burubergduva
+serambergduva
+blek bergduva
+svartvit skarv
+långstjärtad skarv
+kronskarv
+småskarv
+dvärgskarv
+rödfotad skarv
+galápagosskarv
+vitgumpad skarv
+fläckskarv
+grönmaskad skarv
+pallasskarv †
+blåstrupig skarv
+pelagskarv
+beringskarv
+amazonskarv
+öronskarv
+toppskarv
+svartmaskad skarv
+indisk skarv
+sotskarv
+australisk skarv
+storskarv (26)
+vitbröstad skarv (26)
+japansk skarv
+kapskarv
+sokotraskarv
+magellanskarv
+guanoskarv
+kejsarskarv
+sydgeorgisk skarv
+antarktisskarv
+heardskarv
+crozetskarv
+macquarieskarv
+kerguelenskarv
+vårtskarv
+otagoskarv
+foveauxskarv
+chathamskarv
+campbellskarv
+aucklandskarv
+bountyskarv
+
