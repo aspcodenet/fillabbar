@@ -13,7 +13,7 @@ public class Lab4 {
     public void run(){
         String path = "Lab5TextFile-InData1.txt";
         String path2 = "sortedBirds.txt";
-        deleteFileIfNotExists(path2);
+        deleteFileIfExists(path2);
 
 
         try(BufferedWriter bw = new BufferedWriter(new FileWriter(path2))){
@@ -35,7 +35,7 @@ public class Lab4 {
     }
 
 
-    private void deleteFileIfNotExists(String path2) {
+    private void deleteFileIfExists(String path2) {
         try{
             Files.deleteIfExists(Paths.get(path2));                
         }
