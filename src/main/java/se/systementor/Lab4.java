@@ -14,7 +14,7 @@ public class Lab4 {
         String path = "Lab5TextFile-InData1.txt";
         String path2 = "sortedBirds.txt";
         deleteFileIfExists(path2);
-
+        //test
 
         try(BufferedWriter bw = new BufferedWriter(new FileWriter(path2))){
             List<String> allLines = Files.readAllLines(Paths.get(path));
