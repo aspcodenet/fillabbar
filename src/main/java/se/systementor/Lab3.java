@@ -1,4 +1,4 @@
-package se.systementor;
+/package se.systementor;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -7,8 +7,9 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+//7sadfdfsa
 
-public class Lab3 {
+public class Lab3 { 
     public void run(){
         String path = "exfil.txt";
         String path2 = "resultat.txt";
