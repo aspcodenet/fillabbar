@@ -1,4 +1,4 @@
-/package se.systementor;
+package se.systementor;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
